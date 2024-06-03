@@ -1,0 +1,24 @@
+:root {
+  --body-bg-color: #003049;
+  --bg-default-color: #f6d55c;
+
+  --header-text-color: #d62828;
+  --header-border: 2px solid #fff;
+  --header-button-background: #d62828;
+  --header-button-text-color: #fff;
+
+  --image-container-text-color: #111;
+  --color-card-color-background: rgba(255, 255, 255, 0.5);
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  height: 100vh;
+  background-color: var(--body-bg-color);
+}

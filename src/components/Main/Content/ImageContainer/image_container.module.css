@@ -1,0 +1,32 @@
+.image_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--bg-default-color);
+    opacity: 0.8;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+}
+
+.image_container h2 {
+    color: var(--image-container-text-color);
+    font-weight: 600;
+}
+
+.image_container .image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image_container .image img {
+    max-width: 48rem;
+    max-height: 25rem;
+}
+
+@media (max-width: 950px) {
+    .image_container .image img {
+        width: 100%;
+        height: 100%;
+    }
+}

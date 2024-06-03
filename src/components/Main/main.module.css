@@ -1,0 +1,38 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 4rem 2rem;
+    gap: 4rem;
+}
+
+.color_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    height: 15rem;
+    width: 100%;
+}
+
+.color_container :hover {
+    transform: scale(1.15);
+    transition: 0.5s;
+}
+
+@media(max-width: 1610px) {
+    .color_container {
+        display: grid;
+        grid-template-columns: 1fr;
+        width: 50%;
+    }
+}
+
+@media(max-width: 950px) {
+    .color_container {
+        display: grid;
+        grid-template-columns: 1fr;
+        width: 100%;
+    }
+}
