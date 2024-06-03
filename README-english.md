@@ -4,6 +4,10 @@ You can read this doc in Portuguese by clicking [here](./README-english.md).
 
 This is a project for generating colors from an image. The user uploads an image, and the application returns 8 colors from its color palette.
 
+### Demo
+
+Application deploy: https://filipelima-palettegeneator.netlify.app/
+
 ## Technologies Used
 
 - HTML
