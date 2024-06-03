@@ -4,6 +4,10 @@ You can read this doc in english by clicking [here](./README-english.md)
 
 Este é um projeto de um gerador de cores a partir de uma imagem. O usuário faz o upload de uma imagem e a aplicação trás 8 cores de sua paleta de cores.
 
+### Demonstração
+
+Link da aplicação online: https://filipelima-palettegeneator.netlify.app/
+
 ## Tecnologias Utilizadas
 
 - HTML
