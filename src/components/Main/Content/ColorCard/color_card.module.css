@@ -48,10 +48,11 @@
 @media(max-width: 1610px) {
     .color_card {
         justify-content: end;
+        width: 100%;
     }
 
     .color_number {
-        min-width: 40%;
+        max-width: 40%;
         gap: 0;
     }
 }
