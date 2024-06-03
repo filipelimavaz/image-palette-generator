@@ -1,6 +1,6 @@
 You can read this doc in Portuguese by clicking [here](./README-english.md).
 
-## Color Generator from Image
+## Image Color Generator
 
 This is a project for generating colors from an image. The user uploads an image, and the application returns 8 colors from its color palette.
 
