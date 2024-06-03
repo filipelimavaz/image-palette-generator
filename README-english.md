@@ -1,4 +1,4 @@
-You can read this doc in Portuguese by clicking [here](./README-english.md).
+Você pode ler esse documento em português clicando [aqui](./README-english.md).
 
 ## Image Color Generator
 
